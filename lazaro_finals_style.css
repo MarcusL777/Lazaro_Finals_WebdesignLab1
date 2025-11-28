@@ -1,0 +1,57 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-image:url(images/ww2bg.jpg);
+}
+
+main{
+    margin:20px;
+}
+
+.navbar ul{
+    padding: 30px;
+    
+}
+
+.navbar a:hover{
+    background-color: rgb(75, 180, 42);
+}
+
+.card-body{
+    background-color: rgb(36, 36, 36);
+    color: rgb(255, 255, 255)
+   
+}
+
+.card-footer{
+    background-color: black;
+   
+}
+
+.card-fluid{
+    height:auto;
+    width: 750px;
+    justify-self: center;
+    margin-top:20px;
+    padding-top: 20px;
+    border-radius: 20px;
+    background-color: #2e2e2e; 
+    border: 1px solid #414141; 
+    padding: 20px; 
+    margin: 10px; 
+    border-radius: 15px; 
+}
+
+.container-fluid{
+     height:auto;
+    width: 750px;
+    justify-self: center;
+    background-color: #2e2e2e; 
+    border: 1px solid #414141; 
+    padding: 20px; 
+    margin: 10px; 
+    border-radius: 15px; 
+}
+
+
+
+
